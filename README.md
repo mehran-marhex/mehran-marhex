@@ -1,6 +1,8 @@
-# Hello, my name is Mehran
+# Hello, My Name is Mehran
 
-### **I work on three areas:** `Web Development`, `AI`, `Data Science`  and I Try to Integrate and Connect Them.
+### **I work on three areas:<br/>** `Web Development`, `AI`, `Data Science`  and I Try to Integrate and Connect Them . <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" style="with:40px;height:40px;" />
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 ```python
 Langs = [Python , HTML , CSS , JS , SQL , InfluxQL , MQL]
