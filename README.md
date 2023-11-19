@@ -1,6 +1,6 @@
 # Hello, my name is Mehran
 
-### **I work on three areas:** `Web Development`, `AI` and `Data Science`, and I Try to Integrate and Connect Them.
+### **I work on three areas:** `Web Development`, `AI`, `Data Science`  and I Try to Integrate and Connect Them.
 
 ```python
 Langs = [Python , HTML , CSS , JS , SQL , InfluxQL , MQL]
