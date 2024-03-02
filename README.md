@@ -5,9 +5,9 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 
 ```python
-Langs = [Python , HTML , CSS , JS , SQL , InfluxQL , MQL]
+Langs = [Python3 , TS , ES14 , HTML5 , CSS3 , SQL , InfluxQL , MQL]
 
-Tools = [Django , React , Jquery , Tailwind , Sass , Numpy , Pandas , Matplotlib]
+Tools = [Django , Reactjs , Jquery , Sass , Numpy , Pandas , Matplotlib]
 ```
 
   <img src="https://biaupload.com/do.php?imgf=org-066e4fca48ec1.png" style="with:400px;height:260px"><img src="https://biaupload.com/do.php?imgf=org-3e4f71aa14d82.png" style="with:400px;height:260px">
