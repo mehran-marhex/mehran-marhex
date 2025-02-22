@@ -17,7 +17,8 @@ Skills = [
 ]
 Langs = ["Python", "Js" , "Ts", "HTML5", "CSS3", "Lua", "Bash", "SQL", "InfluxQL", "MQL"]
 
-Tools = ["Django", "FastAPI", "Docker", "Reactjs", "Jquery", "Numpy", "Pandas", "Matplotlib", "Nginx", "Websocket", "Nvim", "UnitTest", "PyTest"]
+Tools = ["Django", "FastAPI", "Docker", "Reactjs", "Jquery", "Numpy", "Pandas",
+         "Matplotlib", "Nginx", "Websocket", "Nvim", "UnitTest", "PyTest"]
 
 DataBases = ["MySQL", "MariaDB", "InfluxDB", "SQLServer", "Oracle", "Redis"]
 ```
